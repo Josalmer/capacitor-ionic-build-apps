@@ -185,7 +185,7 @@ public class MainActivity extends BridgeActivity {
 >
 > Select the keystore or create a new one
 >
-> Select release and V2 and create the signed apk
+> Select release, V1 and V2 and create the signed apk
 
 <a id="ios"></a>
 ## iOS
